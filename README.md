@@ -1,4 +1,4 @@
-Level set movies for the paper
+# Level set movies for the paper
 
 Liang Yang, David Hyde, Ognjen Grujic, Celine Scheidt, Jef Caers,
 
@@ -26,7 +26,7 @@ Keywords: 3D geological models; Gradual deformation; Markov chain Monte Carlo; C
 
 
 
-# LevelSetMovies
+# Details
 
 1. "Copper_lithology.mp4" shows how the method works with complex  shapes.You can see significant geometrical and topological changes. Link: https://github.com/liangy396/LevelSetMovies/blob/master/Copper_lithology.mp4
 
